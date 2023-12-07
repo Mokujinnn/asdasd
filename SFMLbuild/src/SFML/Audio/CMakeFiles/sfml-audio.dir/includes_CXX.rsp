@@ -1,0 +1,1 @@
+-I"D:/Files/prog/OOPlabs/SFML-2.6.0/include" -I"D:/Files/prog/OOPlabs/SFML-2.6.0/src" -isystem "D:/Files/prog/OOPlabs/SFML-2.6.0/extlibs/headers/minimp3" -isystem "D:/Files/prog/OOPlabs/SFML-2.6.0/extlibs/headers/AL" -isystem "D:/Files/prog/OOPlabs/SFML-2.6.0/extlibs/headers"
